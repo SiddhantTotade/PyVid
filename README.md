@@ -1,3 +1,4 @@
+## Getting Started
 # Video Chatting Application
 + This is Video Chatting Application based on Python Django.
 + This application uses Agora for serving and chatting.
